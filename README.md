@@ -1,3 +1,4 @@
+
 # AI Test Buddy
 
 A simple web app that generates test cases from a requirement you enter.
@@ -29,3 +30,12 @@ A simple web app that generates test cases from a requirement you enter.
 ## Future Improvements
 - Connect to an AI API for smarter, requirement-specific test cases
 - Add export to PDF/Excel
+## Demo Video
+
+[▶️ Watch AI Test Buddy Demo](./DEMO.mp4)
+
+## Source Code
+
+- [index.html](./index.html)
+- [style.css](./style.css)
+- [script.js](./script.js)
